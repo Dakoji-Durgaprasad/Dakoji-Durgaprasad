@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dakoji-durgaprasad&show_icons=true&locale=en" alt="dakoji-durgaprasad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dakoji-durgaprasad&" alt="dakoji-durgaprasad" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dakoji-durgaprasad&" alt="dakoji-durgaprasad" /></p>

@@ -16,9 +16,17 @@
 
 ## 👨‍💻 About Me
 
+<!-- GIF shown on top for mobile -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"
+    width="220"
+    alt="Developer coding animation" />
+</div>
+
+<!-- Desktop: two column layout -->
 <table border="0" align="center">
 <tr>
-<td valign="top" width="60%">
+<td valign="top">
 
 ```yaml
 Name     : Dakoji Durgaprasad
@@ -34,12 +42,6 @@ Learning : LangFlow · AI Agent Design · Agentic Components
 - ⚡ Practising **vibe coding** with GitHub Copilot & Cursor IDE
 - 📫 Reach me at **dp713327@gmail.com**
 
-</td>
-<td valign="middle" align="center" width="40%">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"
-    width="100%"
-    style="max-width:280px"
-    alt="Developer coding animation" />
 </td>
 </tr>
 </table>

@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" align="right" width="270" height="270"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" align="right" width="250" height="250"/>
 
 ```yaml
 Name     : Dakoji Durgaprasad
